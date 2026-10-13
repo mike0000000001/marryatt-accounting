@@ -1,10 +1,12 @@
 # Marryatt Accounting
 
-One-page static website for https://marryatt.ca, using HTML and CSS. No dependencies, installation, or build required.
+One-page client guide for https://marryatt.ca, using HTML and CSS. No dependencies, installation, or build required.
 
 ## Before launch
 
-Contact links use `contact@marryatt.ca`. Review the service descriptions before publishing.
+Contact links include email, WhatsApp, and Instagram. Payments direct clients to the link on their QuickBooks invoice or Interac e-Transfer to `ar@marryatt.ca`. QuickBooks options depend on what is enabled on the invoice. Review the descriptions and payment instructions before publishing.
+
+Document submission, booking links, and checklists can be added as new sections when available. No inactive resource buttons are shown.
 
 ## Deploy through Cloudflare Pages
 
